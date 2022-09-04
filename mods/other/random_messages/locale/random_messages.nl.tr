@@ -1,0 +1,34 @@
+# textdomain: random_messages
+
+To talk to only your team, start your messages with /t. For example, /t Hello team!=Begin je berichten met /t om ze enkel naar je team te sturen. Bijvoorbeeld: /t Hallo team!
+Use apples to quickly restore your health.=Eet appels om jezelf snel te genezen.
+Moving or fighting can avoid an inactivity kick.=Als je niet gekickt wilt worden voor nietsdoen (inactiviteit), moet je bewegen of vechten.
+Gain more score by killing more than you die, by healing teammates with bandages, or by capturing the flag.=Krijg meer score door vaker iemand te doden dan te sterven, je teamgenoten te genezen, of de vlag te stelen.
+You gain more score the better the opponent you defeat.=Hoe beter de speler is die je doodt, hoe meer score je krijgt.
+Find weapons in chests or mine and use furnaces to make stronger swords.=Je kunt wapens in schatkisten vinden of gaan minen en ovens gebruiken om betere zwaarden te maken.
+Use team doors (steel) to stop the enemy walking into your base.=Gebruik team deuren (van staal) zodat de vijand je basis niet kan binnenlopen.
+Sprint by pressing the fast key (E) when you have stamina.=Om te sneller te lopen druk je de sprint key (E) in wanneer je stamina hebt.
+Like CTF? Give feedback using /report, and consider donating at rubenwardy.com/donate=Vind je CTF leuk? Geef feedback met /report en overweeg te doneren via rubenwardy.com/donate.
+Want to submit your own map? Visit ctf.rubenwardy.com to get involved.=Wil je je eigen map indienen? Bezoek ctf.rubenwardy.com om te beginnen.
+Using limited resources for building structures that don't strengthen your base's defences is discouraged.=Het wordt afgeraden om beperkte grondstoffen te gebruiken voor bouwwerken die je basis niet versterken.
+To report misbehaving players to moderators, please use /report <name> <action>=Om spelers die zich niet aan de regels houden te melden aan de moderators, gebruik /report <naam> <actie>.
+Swearing, trolling and being rude will not be tolerated and strict action will be taken.=Schelden, trollen en onvriendelijk of brutaal gedrag worden niet getolereerd en zullen worden bestraft.
+Trapping team mates on purpose is strictly against the rules and you will be kicked immediately.=Je eigen teamgenoten in de val lokken is verboden en je zult er onmiddellijk voor gekickt worden.
+Help your team claim victory by storing extra weapons in the team chest, and never taking more than you need.=Help je team de overwinning te behalen door extra wapens in de team kist te stockeren en nooit meer spullen te nemen dan je nodig hebt.
+Excessive spawn-killing is a direct violation of the rules - appropriate punishments will be given.=Overmatige spawnkilling is strikt verboden en wordt toepasselijk bestraft.
+Use /r to check your rank and other statistics.=Gebruik /r om je rank en andere statistieken te checken.
+Use /r <playername> to check the rankings of another player.=Gebruik /r <spelersnaam> om de statistieken van een andere speler te checken.
+Use bandages on team-mates to heal them by 3-4 HP if their health is below 15 HP.=Gebruik verband (bandages) op teamgenoten om hen met 3-4 HP te genezen als hun health onder 15 HP is.
+Use /m to add a team marker at pointed location, that's visible only to team-mates.=Gebruik /m om een marker te plaatsen op de locatie waarnaar je aan het wijzen bent. De marker is enkel zichtbaar voor je team.
+Use /summary (or /s) to check scores of the current match and the previous match.=Gebruik /summary (of /s) om de scores van de huidige en de vorige match te checken.
+Strengthen your team by capturing enemy flags.=Versterk je team door de vlag(gen) van de vijand te stelen.
+Hitting your enemy does more damage than not hitting them.=Tip: je vijand slaan is beter dan hem niet slaan.
+Use /top50 command to see the leaderboard.=Gebruik het /top50 command om het leidersclassement te zien. 
+Use /top50 <mode:technical modename> to see the leaderboard on another mode. For example: /top50 mode:nade_fight.=Gebruik /top50 <mode:technische naam> om het leidersclassement in een andere modus te zien. Bijvoorbeeld: /top50 mode:nade_fight.
+To check someone's rank on another mode use /r <mode:technical modename> <playername>. For example: /r mode:nade_fight randomplayer.=Om de rank van een andere speler in een andere modus te checken, gebruik /r <mode:technische naam> <spelersnaam>. Bijvoorbeeld: /r mode:nade_fight randomplayer.
+To check someone's team use /team player <player_name>.=Om te checken in welk team iemand zit, gebruik /team <spelersnaam>.
+To check all team members use /team.=Om alle leden van een team te checken, gebruik /team.
+You can capture multiple enemy flags at once!=Je kunt ook meerdere vlaggen tegelijkertijd stelen in maps met meer dan twee teams!
+Consider joining our Discord server at https://discord.gg/vcZTRPX=Join onze Discord server via https://discord.gg/vcZTRPX
+You can press sneak while jumping, to jump up two blocks.=Om twee blokken hoog te springen moet je sneak inhouden terwijl je springt.
+Use /donate <playername> <score> to reward a team-mate for their work.=Gebruik /donate <spelersnaam> <score> om een teamgenoot te belonen voor hun hulp.
